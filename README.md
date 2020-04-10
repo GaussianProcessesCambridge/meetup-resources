@@ -11,3 +11,5 @@ A collection of resources for upcoming & from previous meetup events.
     - [Presentation slides from Dr Alessandra Tosi: "Data ingestion & data preparation for Gaussian Processes"](2020-01-16/Data%20prep%20for%20GPs.pdf)
 - **Meetup 3 (2020-02-20)**
     - [Presentation slides from Dr Fergus Simpson: "Kernel Selection"](2020-02-20/kernel_selection.pdf)
+- **Meetup 4 (2020-03-19)**
+    - [Presentation slides from Dr Zhenwen Dai: "Scaling up Gaussian processes for real-world data"](2020-03-19/scalable_gp.pdf)
