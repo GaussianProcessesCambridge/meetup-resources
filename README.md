@@ -15,3 +15,5 @@ A collection of resources for upcoming & from previous meetup events.
     - [Presentation slides from Dr Zhenwen Dai: "Scaling up Gaussian processes for real-world data"](2020-03-19/scalable_gp.pdf)
 - **Meetup 5 (2020-09-17)**
     - [Presentation slides from Dr James Norman: "Gaussian Processes for Insurer Solvency"](2020-09-17/Gaussian%20Processes%20for%20Insurer%20Solvency.pdf)
+- **Meetup 6 (2020-11-19)**
+    - [Presentation slides from Dr Vincent Adam: "Gaussian Processes for Time Series"](2020-11-19/GP_for_time_series.pdf)
